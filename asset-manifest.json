@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jamesjddickinson/static/css/main.68214f63.css",
+    "main.js": "/jamesjddickinson/static/js/main.0e2aae30.js",
+    "static/js/787.83883303.chunk.js": "/jamesjddickinson/static/js/787.83883303.chunk.js",
+    "index.html": "/jamesjddickinson/index.html",
+    "static/media/hexagonGrey.svg": "/jamesjddickinson/static/media/hexagonGrey.7866a14d818bd85f3280485832388ada.svg",
+    "static/media/hexagonYellow.svg": "/jamesjddickinson/static/media/hexagonYellow.037f44758bfe603305001f111eee4933.svg",
+    "main.68214f63.css.map": "/jamesjddickinson/static/css/main.68214f63.css.map",
+    "main.0e2aae30.js.map": "/jamesjddickinson/static/js/main.0e2aae30.js.map",
+    "787.83883303.chunk.js.map": "/jamesjddickinson/static/js/787.83883303.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68214f63.css",
+    "static/js/main.0e2aae30.js"
+  ]
+}
